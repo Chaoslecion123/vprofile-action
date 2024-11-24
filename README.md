@@ -1,8 +1,9 @@
-# Prerequisites
+####  Prerequisites
 #####
 - JDK 11
 - Maven 3
-- MySQL 8 
+- MySQL 8
+- docker
 
 # Technologies 
 - Spring MVC
